@@ -7,4 +7,7 @@ This is for CSCI 39548 of Hunter College
 - William (David) Ullauri - @DavidUllauri
 
 ## Assignments
-[Assignment 1](https://dq-web.github.io/assignment1/index.html)
+
+**Asignment 1**
+- [repo](https://github.com/DQ-Web/assignment1)
+- [gitpage](https://dq-web.github.io/assignment1/index.html)
