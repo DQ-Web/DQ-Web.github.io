@@ -10,7 +10,7 @@ This is for CSCI 39548 of Hunter College
 
 **Asignment 1**
 - [repo](https://github.com/DQ-Web/assignment1)
-- [gitpage](https://dq-web.github.io/assignment1/index.html)
+- [demo](https://dq-web.github.io/assignment1/index.html)
 - [instruction details](https://mtlynch3.github.io/WebDevSu21/#assignment-1)
 
 **Asignment 2**
@@ -19,4 +19,5 @@ This is for CSCI 39548 of Hunter College
 
 **Asignment 3**
 - [repo](https://github.com/DQ-Web/assignment3)
+- [demo](https://dq-web.github.io/assignment3/)
 - [instruction details](https://mtlynch3.github.io/WebDevSu21/#assignment-3)
